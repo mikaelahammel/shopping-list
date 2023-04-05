@@ -4,3 +4,6 @@
 - Cheese
 - Bread
 - Desert
+- Lysol wipes
+- Paper towels
+- Ginger ale
